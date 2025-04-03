@@ -1,7 +1,10 @@
-## Welcome to my profile!! 😁
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9500F7&width=435&lines=Welcome+to+my+profile+!!+" alt="Typing SVG" /></a>
+</div>
 
 <div style="text-align: center;">
-  <img src="https://media0.giphy.com/media/KEATEV6uaagupaQEXW/giphy.gif" width="1000" height="500">
+  <img src="https://media0.giphy.com/media/KEATEV6uaagupaQEXW/giphy.gif" width="950" height="500">
 </div>
 
 
@@ -10,6 +13,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDCardoso&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDCardoso&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GuiDCardoso&theme=synthwave" alt="GitHub Streak" /></a>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +22,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
+
+
 
 
 ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
