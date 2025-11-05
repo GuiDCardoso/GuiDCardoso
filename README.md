@@ -14,7 +14,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDCardoso&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GuiDCardoso&theme=synthwave" alt="GitHub Streak" /></a>
+<a href="https://github.com/GuiDCardoso">
+  <img src="https://streak-stats.demolab.com?user=GuiDCardoso&theme=synthwave" alt="GitHub Streak" />
+</a>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
